@@ -1,2 +1,2 @@
 # Geshnath-demo
-This is mu=y first Git Repository
+This is my first Git Repository
